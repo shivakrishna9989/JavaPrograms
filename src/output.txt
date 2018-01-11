@@ -1,0 +1,10 @@
+Person-->
+Fname-->Mike
+Lname-->Litman
+Age-->15
+Address-->
+Number-->123
+Street-->Elm Street
+City-->Grafton
+State-->WI
+Zip-->53024
